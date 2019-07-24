@@ -1,15 +1,19 @@
-# IT Job Market Project
+# Stackoverflow Analysis
 
 ## About the Project
 
-The project purpose was to analyze trends of the IT labor market.
-I was checking data gathered by the biggest sites connected with IT
-and data gathered by myself from indeed. This project could show You:
-* Which languages are the most popular nowadays
-* Which countries offer the most satysfaing sallary
-* Which github repositories are the most popular
-* Which languages prevail on github
-* Which offers on indeed could be the most interesting for Your expectations
+## Par 1
+
+I was analyzing data from the annual survey conducted by Stackoverflow. You could
+download this data here: https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey.
+I focused on:
+* most popular IDEs,
+* most popular frameworks,
+* age and education degrees of programmers,
+* average salaries per country.
+
+
+
 
 
 ## Author
