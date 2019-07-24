@@ -1,5 +1,5 @@
-player_data <-read.csv("C:/Users/Milosz/Downloads/Programowanie/R/Statystyka Stosowana/Raport1/player_data.csv", sep = ",", header = FALSE, fill = TRUE)
-players_data <-read.csv("C:/Users/Milosz/Downloads/Programowanie/R/Statystyka Stosowana/Raport1/Players.csv", sep = ",", header = FALSE, fill = TRUE)
+player_data <-read.csv("player_data.csv", sep = ",", header = FALSE, fill = TRUE)
+players_data <-read.csv("Players.csv", sep = ",", header = FALSE, fill = TRUE)
 View(player_data)
 View(players_data)
 
