@@ -19,9 +19,15 @@ with much greater accuracy. However, this is my first deep learning project
 and I still miss a lot to be a specialist.
 
 <p align="center">
-	![Screenshot](s1.png)
-	![Screenshot](s2.png)
-	![Screenshot](s3.png)
+  <img src="s1.png">
+</p>
+
+<p align="center">
+  <img src="s2.png">
+</p>
+
+<p align="center">
+  <img src="s3.png">
 </p>
 
 ## Author
