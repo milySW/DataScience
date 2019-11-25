@@ -20,9 +20,10 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 https://drive.google.com/drive/folders/1Pef3U6Zg7crdS79u4n101nEs8TqUmabK?fbclid=IwAR1LtVtDopLlQNhkdDMUZEkNmKnYQ0oV54uUGSzPC83SgAvYePJuYLJF8bs
 
-Before using notebook you havve to download data and 
-put it into data directory.
-
+The notebook is constructed in such a way 
+that it implicitly uses the models I have trained. 
+If you want to teach your own models, 
+throw the selected models yourself from the 'models' folder.
 
 <p align="center">
   <img src="s1.png">
