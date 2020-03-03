@@ -12,9 +12,9 @@ This project has specific structure. Each feature branch from `master` is mainta
 
 Model performance.
 
-| loss  | mae | mse | 
-| ---- | ---- | ---- |
-| 166.092 | 11.9992 | 228.288 |
+| loss  | mae | 
+| ---- | ---- |
+| 4.377246 | 2.036525 | 
 
 Example images after augmentation.
 
