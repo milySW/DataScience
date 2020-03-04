@@ -30,9 +30,6 @@ throw the selected models yourself from the 'models' folder.
   <img src="s3.png">
 </p>
 
-<p align="center">
-  <img src="s4.png">
-</p>
 
 
 ## Authors
