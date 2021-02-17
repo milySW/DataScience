@@ -1,4 +1,4 @@
-# IT Job Market Project
+# NBA players analysis
 
 ## About the Project
 
