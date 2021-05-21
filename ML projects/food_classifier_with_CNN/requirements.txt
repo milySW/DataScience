@@ -6,4 +6,4 @@ tensorflow_gpu==2.0.0
 numpy==1.17.3
 Pillow==6.2.1
 scikit_learn==0.21.3
-tensorflow==2.0.0
+tensorflow==2.5.0
